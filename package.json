@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": ["freeCodeCamp","node"]
 }
